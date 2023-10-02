@@ -124,7 +124,6 @@ span {
     display: flex;
     align-items: center;
     font-size: 0.9rem;
-    /* justify-content: space-evenly; */
 }
 
 .panel-all {
@@ -174,13 +173,10 @@ span {
     font-size: 0.9rem;
 }
 
-/* footer {
-    margin-top: 15px;
-} */
-
-.foot-panel1 {
+.foot-panel1 a {
     background-color: #37475A;
     color: white;
+    text-decoration: none;
     height: 50px;
     display: flex;
     justify-content: center;
